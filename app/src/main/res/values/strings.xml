@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Which to Supply</string>
+    <string name="tx_title">Know the best option to fuel your car.</string>
+    <string name="hit_ed_Al">Price of liter of alcohol ex: 1.80</string>
+    <string name="hit_ed_Gas">Petrol liter price ex: 1.57</string>
+    <string name="btn_calc_text">Calculate</string>
+    <string name="al_ok">OK</string>
+    <string name="al_t">Invalid Fields</string>
+    <string name="tx_result_1">Better fill with gasoline</string>
+    <string name="tx_result_2">Better fill with alcohol</string>
+    <string name="img_text">car</string>
+    <string name="al_m">Please fill in all fields.</string>
+</resources>

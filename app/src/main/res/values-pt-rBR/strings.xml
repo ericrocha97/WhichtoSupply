@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Qual abastecer?</string>
+    <string name="al_m">Por favor preencha todos os campos.</string>
+    <string name="al_ok">OK</string>
+    <string name="al_t">Campos inválidos</string>
+    <string name="btn_calc_text">Calcular</string>
+    <string name="hit_ed_Al">Preço do litro de álcool ex: 1.80</string>
+    <string name="hit_ed_Gas">Preço do litro de gasolina ex: 1.57</string>
+    <string name="img_text">carro</string>
+    <string name="tx_result_1">Melhor abastecer com gasolina</string>
+    <string name="tx_result_2">Melhor abastecer com álcool</string>
+    <string name="tx_title">Saiba a melhor opção para abastecer seu carro.</string>
+</resources>
